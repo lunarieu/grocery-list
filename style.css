@@ -1,0 +1,27 @@
+li{
+	display:flex;
+	justify-content:center;
+	margin-bottom:10px;
+
+}
+li button{
+	margin-left:10px;
+	background-color:#FFDAB9;
+}
+body{
+	background-color:#E9967A;
+	color:black;
+	font-family:Century Gothic;
+	text-align: center;
+}
+#btn{
+	background-color:#8FBC8F;
+}
+.container{
+	width:100%;
+	max-width:600px;
+	margin: 0 auto;
+	padding:0 10px;
+	box-sizing:border-box;
+	
+}
